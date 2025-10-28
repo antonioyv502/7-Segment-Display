@@ -12,6 +12,10 @@ This project demonstrates how to interface a **7-segment display** with the **TM
 - Implements a **software delay** for stable operation and button debouncing.  
 
 ---
+## 🛠 Hardware Components
+- TM4C123G microcontroller
+- Resistors
+- Breadboard and Jumper Wires
 
 ## Pin Configuration Table
 
