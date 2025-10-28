@@ -11,6 +11,7 @@ This project demonstrates how to interface a **7-segment display** with the **TM
 
 ## 🛠 Hardware Components
 - TM4C123G microcontroller
+- 7 Segment Display
 - Resistors
 - Breadboard and Jumper Wires
 
