@@ -4,7 +4,7 @@ This project demonstrates how to interface a **7-segment display** with the **TM
 
 ---
 
-## 🧠 Features
+## 🔧 Features
 - Counts from **0 to F** on a 7-segment display.  
 - **Reset and increment buttons** implemented using GPIO inputs.  
 - **Software edge detection** to identify falling edges on button presses.  
@@ -13,7 +13,7 @@ This project demonstrates how to interface a **7-segment display** with the **TM
 
 ---
 
-## ⚙️ Hardware Configuration
+## Pin Configuration Table
 
 | Device | Port.Pin | Signal Type | Direction | Drive Mode |
 |---------|-----------|--------------|------------|-------------|
