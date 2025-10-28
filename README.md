@@ -31,5 +31,5 @@ This project demonstrates how to interface a **7-segment display** with the **TM
 | SW2 (Count) | PORTF.PIN0 | Digital GPIO | IN/NEG | Pull-Up |
 
 ## Circuit Diagram
-![PWM Circuit Diagram](./Images/Circuit-Diagram/Circuit_Diagram.png)
+![7 Seg Display Circuit Diagram](./Images/Circuit-Diagram/Circuit_Diagram.png)
 
