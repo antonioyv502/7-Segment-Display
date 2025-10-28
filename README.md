@@ -1,6 +1,6 @@
 # 7-Segment Display Counter
 
-This project demonstrates how to interface a **7-segment display** with the **TM4C123 Tiva C microcontroller** to count from `0` to `F`. The counter can be **incremented** using a button and **reset** with another. The system uses **software edge detection** to accurately detect button presses and prevent multiple counts from a single press.
+This project demonstrates how to interface a **7-segment display** with the **TM4C123 Tiva C microcontroller** to count from `0` to `F`. Programmed in Embedded C using Keil µVision, the counter can be **incremented** using a button and **reset** with another. The system uses **software edge detection** to accurately detect button presses and prevent multiple counts from a single press.
 
 ## 🔧 Features
 - Counts from **0 to F** on a 7-segment display.  
