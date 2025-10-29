@@ -33,3 +33,5 @@ This project demonstrates how to interface a **7-segment display** with the **TM
 ## Circuit Diagram
 ![7 Seg Display Circuit Diagram](./Images/Circuit-Diagram/Circuit_Diagram.png)
 
+## Circuit Board
+![7 Seg Display Circuit Board](./Images/F.png)
