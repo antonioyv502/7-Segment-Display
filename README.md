@@ -35,4 +35,5 @@ This project demonstrates how to interface a **7-segment display** with the **TM
 
 ## Circuit Board
 Below is the circut board used for the 7 Segment Display counter. 
+
 ![7 Seg Display Circuit Board](./Images/F.png)
